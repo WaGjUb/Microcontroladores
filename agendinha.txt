@@ -1,0 +1,19 @@
+para fazer: 
+    Atividade_02 Tarefa
+
+    Enviar o arquivo referente à  Atividade_02 no formato pdf.
+
+    O nome do arquivo deve ser 'Atividade_02_#######.pdf', onde ####### é o número do RA do aluno (somente números).
+
+    Envio até 05/04/2016 15:50
+__________________________________________________________________________________________________
+Alterar o código do  exemplo Botao_LED para o seguinte comportamento:
+
+- Enquanto o botão estiver apertado o led fica piscando;
+
+- Soltando o botão o led fica apagado.
+
+Envio até 29/03/16 15:50
+
+____________________________________________________________________________________
+

@@ -34,12 +34,12 @@ CRESCENTE:
 ATRASO:					//atraso de aprox. 200ms
 	LDI R19,16	
  volta:		
-	DEC  R17			//decrementa R17, começa com 0x00
-	BRNE volta 			//enquanto R17 > 0 fica decrementando R17
-	DEC  R18			//decrementa R18, começa com 0x00
-	BRNE volta			//enquanto R18 > 0 volta decrementar R18
-	DEC  R19			//decrementa R19
-	BRNE volta			//enquanto R19 > 0 vai para volta
+;	DEC  R17			//decrementa R17, começa com 0x00
+;	BRNE volta 			//enquanto R17 > 0 fica decrementando R17
+;	DEC  R18			//decrementa R18, começa com 0x00
+;	BRNE volta			//enquanto R18 > 0 volta decrementar R18
+;	DEC  R19			//decrementa R19
+;	BRNE volta			//enquanto R19 > 0 vai para volta
 	RET	
 //---------------------------------------------------------------------------
 
